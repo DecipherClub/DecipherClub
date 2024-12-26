@@ -33,7 +33,7 @@ If you:
 
 This publication is for you.
 
-[Subscribe Today](https://www.decipherclub.com/?ref=decipherclub.com#/portal/) (for free) to get complete access to our full archive of past and future content.
+[Subscribe Today](https://www.decipherclub.com/?ref=decipherclub.com#/portal/)  (for free) to get complete access to our full archive of past and future content.
 
 Your subscription supports Decipher Club and makes our work possible.
 

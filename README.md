@@ -1,16 +1,40 @@
-## Hi there 👋
+# About
 
-<!--
-**DecipherClub/DecipherClub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Decipher Club** is a newsletter website with extensive research articles that simplify cutting-edge technologies for software builders or tech enthusiasts.
 
-Here are some ideas to get you started:
+**The Decipher Newsletter**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With the Decipher Club Newsletter, you receive well-researched, in-depth long-form content on key topics (mainly Web3 and AI) that save you time and keep you informed.
+
+## The Bigger Picture
+Navigating the rapidly evolving Web3 space can be challenging, with innovations happening around the clock.
+
+### Decipher Club aims to make this easier for you.
+
+Our primary goal is to create detailed articles that break down ( “decipher” ) complex topics, giving you a solid understanding & mental models.
+
+With its curated and simplified technical (and sometimes non-technical) content, this publication aims to:
+
+- Help software developers and tech enthusiasts get an understanding of complicated topics in Web3.
+- Provide detailed research articles on essential but complicated subjects.
+- Share well-evaluated mental models for writing better, optimized, and secure web3 products.
+- Guide Web3 enthusiasts to become valuable Web3 contributors
+- Foster an open community for like-minded builders, enthusiasts, and researchers to interact and collaborate.
+
+## What’s in it for the Readers?
+If you:
+
+- Love in-depth articles on important Web3 topics,
+- Strive to be a better developer who makes well-informed decisions,
+- Want to become a valuable contributor in the Web3 space,
+- Enjoy reading about cutting-edge tech and its impact,
+- Understand the importance of mental models for productivity,
+- Appreciate simplified, curated, and well-researched content that gives you those **AHA moments**,
+
+This publication is for you.
+
+[Subscribe Today](https://www.decipherclub.com/?ref=decipherclub.com#/portal/) (for free) to get complete access to our full archive of past and future content.
+
+Your subscription supports Decipher Club and makes our work possible.
+
+Thank you!

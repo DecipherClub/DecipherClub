@@ -1,15 +1,14 @@
 # About
 
-**Decipher Club** is a newsletter website with extensive research articles that simplify cutting-edge technologies for software builders or tech enthusiasts.
+**Decipher Club** is a publication focusing on research articles that simplify cutting-edge technologies for software builders and tech enthusiasts.
 
 **The Decipher Newsletter**
 
-With the Decipher Club Newsletter, you receive well-researched, in-depth long-form content on key topics (mainly Web3 and AI) that save you time and keep you informed.
+With the Decipher Club Newsletter, you receive well-researched, in-depth long-form content on key topics (primarily Web3 and AI).
 
 ## The Bigger Picture
-Navigating the rapidly evolving Web3 space can be challenging, with innovations happening around the clock.
-
-### Decipher Club aims to make this easier for you.
+Its quite challenging to navigate a rapidly evolving space like Web3, with innovations happening around the clock.
+**Decipher Club aims to make this easier for you.**
 
 Our primary goal is to create detailed articles that break down ( “decipher” ) complex topics, giving you a solid understanding & mental models.
 

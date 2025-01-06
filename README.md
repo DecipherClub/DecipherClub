@@ -1,4 +1,5 @@
 # About
+![Option-1 Light](https://github.com/user-attachments/assets/902dfd5e-c4fc-4450-b541-f9444403d7da)
 
 **Decipher Club** is a publication focusing on research articles that simplify cutting-edge technologies for software builders and tech enthusiasts.
 
